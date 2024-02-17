@@ -1,0 +1,84 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.hero-section {
+  background-image: url("pantaicangkring.jpg"); /* Ganti 'background.jpg' dengan gambar latar belakang Anda */
+  background-size: container;
+  background-position: center;
+  padding: 250px 0;
+  text-align: width;
+  text-position: 100;
+}
+
+.hero-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.container {
+  max-width: center;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.profile {
+  display: content;
+  align-items: content;
+}
+
+.profile img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.info {
+  max-width: 1000px;
+  text-align: center;
+}
+
+h1,
+h2 {
+  color: #fff;
+  margin-top: 0;
+}
+.profile h3 {
+  font-size: 30px;
+  color: #025e8a;
+  text-align: center; /* Mengatur teks di tengah */
+  margin-top: 0; /* Menghilangkan margin atas untuk judul */
+}
+.info p {
+  color: #666;
+  margin: 5px 0;
+  teks-align: center;
+}
+.beach-header {
+  background-color: #0077cc;
+  padding: 20px 0;
+}
+
+.beach-header nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: right;
+}
+
+.beach-header nav ul li {
+  display: inline;
+  margin: 0 10px;
+}
+
+.beach-header nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.beach-header nav ul li a:hover {
+  text-decoration: underline;
+}
